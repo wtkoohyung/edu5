@@ -7,7 +7,7 @@ metadata:
     kubernetes.io/ingress.class: traefik
 spec:
   rules:
-  - host: mynginx.210.106.105.165.sslip.io
+  - host: mynginx.210.106.105.164.sslip.io
     http:
       paths:
       - path: /
